@@ -34,3 +34,5 @@ const Message = () => {
 //! rendering react functionalities in the index html file
 
 ReactDom.render(<Greeting />, document.getElementById("root")); //components must be closed with closing tag
+
+//test git
